@@ -26,7 +26,7 @@ class Interest extends Component {
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.other}>
                 <h3>Other's Interest</h3>
-                <p>I also have decent hand in developing website with WordPress.<br /> Adobe Photoshop, Adobe Illustrator, MS Office, C++, Github are my other fields of interest. </p>
+                <p>I enjoyed being organised and productivity hacks<br /> I like reading about GTD, note-taking and habit structuring e.g. Atomic Habits by James Clear</p>
               </div>
             </ScrollAnimation>
           </div>
