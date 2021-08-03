@@ -9,7 +9,7 @@ class Interest extends Component {
       <div className={classes.box} id="interest">
         <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
           <span className={classes.head}>WHAT I DO?</span>
-          <h2 className={classes.heading}>HERE ARE SOME OF MY EXPERTISE</h2>
+          <h2 className={classes.heading}>HERE ARE SOME OF MY SKILLS</h2>
           <div className={classes.Interest}>
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.web}>
