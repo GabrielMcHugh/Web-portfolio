@@ -5,7 +5,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "animate.css/animate.min.css"; 
 import {GoProject} from 'react-icons/go'
 import {FaArrowCircleDown} from 'react-icons/fa'
-import Hello from '../images/Hello.jpg'
+import Hello from '../images/daniel-romero.jpg'
 import Pencil from '../images/Pencil.jpg'
 import laptop1 from '../images/laptop1.jpg'
 
