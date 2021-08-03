@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './Sidebar.css';
 import { HashLink as Link } from 'react-router-hash-link';
 import {  FiExternalLink } from 'react-icons/fi';
-import logo from '../images/code copy.png'
+import logo from '../images/GM.jpeg'
 
 class Sidebar extends Component {
     render() {
