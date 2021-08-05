@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Esteban&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Esteban&family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Work+Sans:400,700');
 .sidebar{
     /* margin-top: -50px; */
     overflow-y: hidden;
@@ -13,7 +12,7 @@
 
 .h1_links{
   text-decoration: none;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Crimson Text', sans-serif;
   color:#000;
   font-size:32px;
 }
@@ -39,7 +38,7 @@
 .links{
   text-decoration: none;
   /* font-family: 'Quicksand', sans-serif; */
-  font-family: Esteban, cursive;
+  font-family: 'Crimson Text', cursive;
   color:#000;
   font-size: larger;
   line-height: 1.4rem;

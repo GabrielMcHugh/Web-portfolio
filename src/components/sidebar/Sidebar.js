@@ -11,7 +11,7 @@ class Sidebar extends Component {
             <div className="sidebar">
                 <img src={logo} />
                 <h1><Link smooth to="/#start" className="h1_links">Gabriel McHugh</Link></h1>
-                <p style={{color:'black',fontWeight:'bold'}} className="gmail"> gabriel.t.mchugh@gmail.com </p>
+                <p style={{color:'black'}} className="gmail"> gabriel.t.mchugh@gmail.com </p>
                 <ul className="sidebar-nav">
                     <li className="sidebar-nav-items"><Link smooth to="/#about" className="links">About</Link></li>
                     <li className="sidebar-nav-items"><Link smooth to="/#interest" className="links">Interest</Link></li>

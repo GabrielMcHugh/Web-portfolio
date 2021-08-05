@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Work+Sans:400,700');
+
 .App {
   display:grid;
   grid-template-columns: 1fr 4fr;
-  font-family: 'Quicksand',Arial, sans-serif;
+  font-family: 'Work Sans',Arial, sans-serif;
   line-height: 1.3em;
   letter-spacing: 0.04em;
 }

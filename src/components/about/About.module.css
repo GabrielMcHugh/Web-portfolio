@@ -30,6 +30,7 @@
     text-transform: uppercase;
     letter-spacing: 5px;
     line-height: 1.8;
+    font-family: "Crimson Text";
 }
 .label {
     position: relative;
@@ -39,7 +40,7 @@
 }
 .label h2 {
     font-size: 20px;
-    font-family: "Quicksand", Arial, sans-serif;
+    font-family: "Crimson Text";
     font-weight: 500;
    
 }
