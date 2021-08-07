@@ -4,7 +4,8 @@ import {BrowserRouter as Router} from 'react-router-dom';
  import Sidebar from './components/sidebar/Sidebar';
 import About from './components/about/About';
 import Education from './components/Education/Education';
-import Interest from './components/skills/Interest'
+import Interest from './components/skills/Interest';
+import Notice from './components/notice/Notice'
 import CarouselImages from './components/carousel/CarouselImages.js'
 
 
@@ -13,6 +14,7 @@ class App extends Component {
   render(){
   return (
     <Router>
+    <Notice />
       <div className="App">
           <div className="side">
             <nav className="navbar side navbar-expand-lg navbar-light p-0" >
